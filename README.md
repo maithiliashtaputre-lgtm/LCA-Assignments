@@ -1,4 +1,3 @@
-# LCA-Assignments
 # LCA Assignments | Python Programming
 
 A collection of Python programming assignments completed as part of the **First-Year B.Tech Computer Science and Engineering curriculum at MIT World Peace University (MIT-WPU), Pune**.
